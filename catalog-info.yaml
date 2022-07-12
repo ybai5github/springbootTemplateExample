@@ -4,6 +4,8 @@ metadata:
   name: "springbootTemplateExample"
   description: "springbootTemplateExample"
   annotations:
+    snyk.io/org-name: ybai5github
+    snyk.io/project-ids: 982975d8-86c4-4c1f-ba3e-7baa307840fa
     github.com/project-slug: ybai5github/springbootTemplateExample
     backstage.io/techdocs-ref: dir:.
 spec:
