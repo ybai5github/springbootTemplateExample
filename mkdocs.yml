@@ -1,0 +1,8 @@
+site_name: "springbootTemplateExample"
+site_description: "springbootTemplateExample"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
